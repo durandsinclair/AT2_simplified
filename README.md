@@ -1,2 +1,2 @@
 # AT2_simplified
-Simplified version of the AT2 template
+Simplified version of the AT2 template.
