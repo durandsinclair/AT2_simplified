@@ -1,0 +1,72 @@
+---
+title: "Simplified Template for DSI AT2"
+subtitle: "by Peter Kiel and Simon Knight"
+date: "22/08/2019"
+output:
+    pdf_document:
+        number_sections: yes
+        fig_caption: yes
+        toc: yes
+        toc_depth: '2'  
+    html_document:
+        number_sections: yes
+        fig_caption: yes
+        toc: yes
+        toc_depth: '2'   
+---
+
+-----
+
+This is the template, or structure for the report. Make sure that you read it closely, several times.
+
+**Word length**  
+2800 words (excluding data excerpts and appendices, visualisations, and 
+references). 
+
+**Structure**  
+This is the suggested structure for your report. The basic structure is similar to the style of academic papers and, if followed, should ensure that everything you need to include is present. I have included the assessment criteria at the relevant places to remind you of what needs to be in the report. 
+
+You are free to vary the structure by renaming the sections, including other sections, or dropping ones that you don’t use. Keep in mind that the suggested structure is conventional (and therefore easy to follow), practical, and comprehensive. *(Criterion 5: Professionally presented in a manner appropriate to the discipline.)*  
+
+Note: The text between the angle brackets, < >, below, is replaced by your text.
+
+-----
+
+# Title, name, student number etc
+
+# Introduction
+<a paragraph that gives an overview of what you’ve done>
+
+# Description of process, or method
+<this is where you give details about what you’ve been collecting and how much you data have; why you choose this data to collect; how you managed the quality and frequency of collection issues; what you did to anonymise or de-identify the data, and how you dealt with the storage and sharing of data within the group. Do not include a dump of all your data here. If you wish to include examples of data (and I think you should) then put these in an appendix to the report.  
+*Criterion 1: Justifies a method to obtain data from multiple sources, for gaining insight into a chosen problem, including analysis of data quality issues in the individual and group data.* >
+
+# Analysis
+<describe how you analysed your data, and how you contrasted your data with the group’s data.   
+*Criterion 2: Justifies the analysis of the obtained data, including quality issues, to draw conclusions in a professional and engaging manner.* >
+
+# Findings and conclusions
+<what conclusions did you come to as a result of the analysis of your data and of the group’s data.    
+*Criterion 2: Justifies the analysis of the obtained data, including quality issues, to draw conclusions in a professional and engaging manner.*>
+
+# Discussion
+<discuss aspects of the process that you see as important. For example, what difficulties did you encounter;  how could you avoid problems if you did it again; etc>
+
+Your ‘justification’ and evaluation of your approach is likely to go in this section, but may also be threaded through the preceding sections. This includes *Criterion 3: Identifies, contextualises, and reflects on the ethical, privacy, and legal issues relevant to the collection and analysis of personal data of self and others.* > 
+
+# Reflection
+<General reflection on what you learnt during this task. What are you unsure about? What would you do differently if you had to do it all again?  
+*Criteria 4: Connects the individual experience of this QS project to the practice of data science (and the preceding three criteria).*> 
+
+# References
+<include any cited references, formatted in Harvard style.> 
+
+# Appendices
+<include samples of your data - enough to give a sense of what your raw data looks like>
+
+# Other
+If you are submitting any additional materials, such as short multimedia presentations or visualisations (such as Prezi, or voice-over video/screen capture, etc), they probably can’t be submitted through UTSOnline so you will need to arrange some other process such as posting on YouTube or elsewhere, or handing in a memory stick or CD/DVD. Please ensure that additional material like this is accessible to the markers (test this by accessing it through someone else’s computer) and avoid any restrictive or proprietary software constraints. Remember to check any included web links!
+
+Diagrams, figures, charts and illustrations must be labelled, and explained, and must be referred to from somewhere in the report. If drawn from another source, then the source must be provided. 
+
+
